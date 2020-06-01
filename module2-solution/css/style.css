@@ -54,12 +54,13 @@ section>p {
 
 /* Desktop view options */
 
-@media (min-width: 992 px) {
-    .col-lg-4 {
-  	float: left;
-    width: 33.33%;
+@media (min-width: 992px){
+		.col-lg-4 {
+			float: left;
+			width: 33.33%;
   }
 }
+ 
 
 /* Tablet view options */
 
