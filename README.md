@@ -16,3 +16,9 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 4
 * [Assignment Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 * [Solution](https://anushkasethi1710.github.io/coursera-test/module4-solution/)
+
+### Module 5
+* [Assignment Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+* [Solution]
+
+
